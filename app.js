@@ -1,4 +1,22 @@
-{
-    const randomNum = Math.floor(Math.random() * 6) + 95;
-    console.log("Random number between 95 and 100:", randomNum);
-  };
+let num = 5;
+  console.log(Math.pow(num,5));
+  console.log(num % 3);
+  
+
+
+  
+
+  
+
+  
+
+
+
+
+
+
+
+  
+
+  
+  
